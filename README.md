@@ -12,3 +12,5 @@ Due to unespected delays in other commitments, I was unable to finish this depen
 1. Create the remaining Entities
 2. Create the remaining UseCases
 3. Create the remaining Adapters
+4. Implement the business rules in the Entities and UseCases
+5. Create the unit tests
